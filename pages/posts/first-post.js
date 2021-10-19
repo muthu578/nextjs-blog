@@ -8,7 +8,7 @@ export default function FirstPost() {
     <>
       <Layout>
         <Head>
-          <title>First Post</title>
+          <title>Second Post</title>
         </Head>
 
         <h1>First Post</h1>
