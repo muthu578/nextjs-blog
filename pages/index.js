@@ -20,6 +20,7 @@ export default function Home({ allPostsData }) {
       {/* Keep the existing code here */}
 
       {/* Add this <section> tag below the existing <section> tag */}
+      <p> Welcome to Tutorial</p>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
         <h2 className={utilStyles.headingLg}>Blog</h2>
         <ul className={utilStyles.list}>
